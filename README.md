@@ -36,7 +36,7 @@ I am Basmala, motivated student pursuing a career in **Artificial Intelligence**
 ---
 
 # 📊 # Dynamic Dev Dashboard
-![Skills](https://github-widgetbox.vercel.app/api/skills?languages=python,java,javascript&tools=github,git,visualstudio)](https://github.com/Jurredr/github-widgetbox)
+![Skills](https://github-widgetbox.vercel.app/api/skills?languages=python,java,javascript&tools=github,git,visualstudio)]
 
 ---
 
